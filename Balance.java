@@ -4,5 +4,6 @@ public class Balance {
     // Saving account
     // Stacks
     // Credit account
+    // name
 
 }
